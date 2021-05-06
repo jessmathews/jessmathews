@@ -1,9 +1,9 @@
 ### Hi there, I'm <a href="http://jessmathews.github.io">Jess Mathews!</a> 👋
 
-<a href="https://discord.com"><img alt="discord" src="assets/discord.svg" width="25px"/></a>
-<a href="https://t.me/i_am_jezz"><img alt="telegram" src="assets/telegram.svg" width="25px"/></a>
+<a href="https://discord.com"><img alt="discord" src="assets/discord.svg" height="30em"/></a>
+<a href="https://t.me/i_am_jezz"><img alt="telegram" src="assets/telegram.svg" height="30em"/></a>
 <br>
-In ❤️ with <a href="https://freecodecamp.org"><img alt="freecodecamp" src="assets/freecodecamp.svg" width="25px" align="center"></a>
+In ❤️ with <a href="https://freecodecamp.org"><img alt="freecodecamp" src="assets/freecodecamp.svg" height="30em" align="center"></a>
 
 <!--
 **jessmathews/jessmathews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
