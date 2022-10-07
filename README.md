@@ -2,12 +2,11 @@
 
 <br>
 <h2 align="center">Student ✨</h2>
-<img src="banner.png" height="170" width="1300">
 <br>
 <br>
 
 
-- 🔭 I’m currently working on building something that can change **everything**
+- 🔭 I’m currently working on building something that can change **the system**
 
 - 🌱 I’m currently learning **Data Structures** and **Algorithms**
 
