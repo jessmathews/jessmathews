@@ -1,12 +1,12 @@
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif"  width="29">, I'm Jess!</h1>
+<h1 align="center"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif"  width="29"> Hi there, I'm <a href="https://jessmathews.github.io/">Jess</a></h1>
 
 <br>
-<h2 align="center">Student ✨</h2>
+<h2 align="center">✨ Student </h2>
 <br>
 <br>
 
 
-- 🔭 I’m currently working on building something that can change **the system**
+- 🔭 I’m currently working on building something that can change **everything**
 
 - 🌱 I’m currently learning **Data Structures** and **Algorithms**
 
@@ -16,10 +16,18 @@
 
 
 <br>
+<h2 align="center">🧰 Tools:</h2>
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,python,vim,bash,linux,vscode,html,github,java,rust&perline=5" />
+  </a>
+</p>
 <br>
 
-<h2 align="left">Connect:</h2>
-<p align="left">
+<h2 align="center">🙋‍♂️ Connect:</h2>
+<br>
+
+<p align="center">
   <a href="https://www.linkedin.com/in/jess-m-87110a1a5" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
       alt="Jess" height="30" width="40" /></a>
@@ -31,11 +39,12 @@
 <br>
 
 
-<h2 align="left">Stats:</h3>
+<h2 align="center">📊 Stats:</h3>
 <br>
 
-<p><img src="https://github-readme-stats.vercel.app/api?username=jessmathews&show_icons=true&theme=dark">
-<img  src="https://streak-stats.demolab.com/?user=jessmathews&theme=github-dark"></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jessmathews&show_icons=true&theme=dark">
+</p>
+<p align="center"><img  src="https://streak-stats.demolab.com/?user=jessmathews&theme=github-dark"></p>
 <p align="left"><img align="left" src="https://komarev.com/ghpvc/?username=jessmathews"></p>
 
 
