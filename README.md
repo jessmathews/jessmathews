@@ -45,6 +45,12 @@
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jessmathews&show_icons=true&theme=dark">
 </p>
 <p align="center"><img  src="https://streak-stats.demolab.com/?user=jessmathews&theme=github-dark"></p>
+<p align="center"><img src="https://leetcode-stats-six.vercel.app/api?username=jessmathews&theme=dark"></p>
+<br>
+<h2 align="center">🏆 Trophies:</h2>
+<br>
+<p align="center"><img src="https://github-profile-trophy.vercel.app/?username=jessmathews&row=1&theme=darkhub"></p>
+
 <p align="left"><img align="left" src="https://komarev.com/ghpvc/?username=jessmathews"></p>
 
 
