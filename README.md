@@ -60,7 +60,6 @@
 <p align="left"><img align="left" src="https://komarev.com/ghpvc/?username=jessmathews"></p>
 
 
-<!--Convert badges to fit inside a table-->
 
 <!--### Hi there 👋
 **jessmathews/jessmathews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
