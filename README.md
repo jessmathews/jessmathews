@@ -41,10 +41,16 @@
 
 <h2 align="center">📊 Stats:</h3>
 <br>
-
-<p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jessmathews&show_icons=true&theme=dark">
-</p>
-<p align="center"><img  src="https://streak-stats.demolab.com/?user=jessmathews&theme=github-dark"></p>
+<table>
+<tr>
+<td><p align="center"><img src="https://github-readme-stats.vercel.app/api?username=jessmathews&show_icons=true&theme=dark"></p>
+</td>
+<td><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessmathews&theme=dark"></p>
+</td>
+<td><p align="center"><img src="https://streak-stats.demolab.com/?user=jessmathews&theme=github-dark"></p>
+</td>
+</tr>
+</table>
 <p align="center"><img src="https://leetcode-stats-six.vercel.app/api?username=jessmathews&theme=dark"></p>
 <br>
 <h2 align="center">🏆 Trophies:</h2>
@@ -54,7 +60,7 @@
 <p align="left"><img align="left" src="https://komarev.com/ghpvc/?username=jessmathews"></p>
 
 
-<!--Convert badges to fit inside a -->
+<!--Convert badges to fit inside a table-->
 
 <!--### Hi there 👋
 **jessmathews/jessmathews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
