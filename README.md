@@ -1,4 +1,4 @@
-<h1 align="center"><img src="https://raw.githubusercontent.com/TheDudeThatCode/TheDudeThatCode/master/Assets/Hi.gif"  width="29"> Hi there, I'm <a href="https://jessmathews.github.io/">Jess</a></h1>
+<h1 align="center">👋 Hi there, I'm <a href="https://jessmathews.github.io/">Jess</a></h1>
 
 <br>
 <h2 align="center">✨ Student </h2>
