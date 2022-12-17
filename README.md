@@ -1,5 +1,6 @@
 <h1 align="center">👋 Hi there, I'm <a href="https://jessmathews.github.io/">Jess</a></h1>
 
+
 <br>
 <h2 align="center">✨ Student </h2>
 <br>
@@ -37,7 +38,7 @@
 </p>
 <br>
 <br>
-
+<!-- fix emojis-->
 
 <h2 align="center">📊 Stats:</h3>
 <br>
