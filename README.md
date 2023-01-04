@@ -38,7 +38,6 @@
 </p>
 <br>
 <br>
-<!-- fix emojis-->
 
 <h2 align="center">📊 Stats:</h3>
 <br>
