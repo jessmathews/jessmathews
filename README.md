@@ -58,7 +58,7 @@
 <p align="center"><img src="https://github-profile-trophy.vercel.app/?username=jessmathews&row=1&theme=darkhub"></p>
 
 <p align="left"><img align="left" src="https://komarev.com/ghpvc/?username=jessmathews"></p>
-
+<!-- fix emojis on screen -->
 <!-- add projects to repo -->
 <!-- make three.js website-->
 <!--### Hi there 👋
