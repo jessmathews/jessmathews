@@ -59,7 +59,6 @@
 
 <p align="left"><img align="left" src="https://komarev.com/ghpvc/?username=jessmathews"></p>
 <!-- add projects to repo -->
-<!-- try harder -->
 <!-- make three.js website-->
 <!--### Hi there 👋
 **jessmathews/jessmathews** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
