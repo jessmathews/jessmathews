@@ -17,10 +17,10 @@
 
 
 <br>
-<h2 align="center">🧰 Tools:</h2>
+<h2 align="center">🧰 Tools and Languages:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,vim,bash,linux,vscode,html,github,java,rust&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,python,vim,bash,linux,vscode,html,github,java,rust,javascript,c,cpp,blender&perline=7" />
   </a>
 </p>
 <br>
