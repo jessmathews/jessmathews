@@ -7,7 +7,7 @@
 <br>
 
 
-- 🔭 I’m currently working on building something that can change **everything**
+- 🔭 I’m currently trying to start with **open source contributions**
 
 - 🌱 I’m currently learning **Data Structures** and **Algorithms**
 
