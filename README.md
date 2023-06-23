@@ -30,10 +30,9 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/jess-m-87110a1a5" target="_blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
-      alt="Jess" height="30" width="40" /></a>
+  src="assets/linked-in-alt.svg"      alt="Jess" height="30" width="40" /></a>
 <a href="https://twitter.com/i_am_jezz" target="_blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+      src="assets/twitter.svg"
       alt="i_am_jezz" height="30" width="40"/></a>
 </p>
 <br>
