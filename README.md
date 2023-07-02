@@ -11,21 +11,24 @@
 
 - 🌱 I’m currently learning **Data Structures** and **Algorithms**
 
-- 👯 I’m looking to collaborate on **anything that can be a learning experience**
+- 👯 I’m looking to collaborate on **FOSS projects**
+
+- 🗨️ Ask me about **Fullstack Development**
+
 
 
 
 
 <br>
-<h2 align="center">🧰 Tools and Languages:</h2>
+<h2 align="center">🛠️ Tools and Languages:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,vim,bash,linux,vscode,html,github,java,rust,javascript,c,cpp,blender,css&perline=5" />
+    <img src="https://skillicons.dev/icons?i=git,python,vim,bash,linux,vscode,html,github,java,rust,javascript,c,cpp,blender,css,django&perline=4" />
   </a>
 </p>
 <br>
 
-<h2 align="center">🙋‍♂️ Connect:</h2>
+<h2 align="center">🙋‍♂️Connect:</h2>
 <br>
 
 <p align="center">
@@ -38,7 +41,7 @@
 <br>
 <br>
 
-<h2 align="center">📊 Stats:</h3>
+<h2 align="center"><img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px"> Stats:</h3>
 <br>
 <table>
 <tr>
