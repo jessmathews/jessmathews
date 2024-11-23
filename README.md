@@ -52,7 +52,7 @@
 </td>
 </tr>
 </table>
-<p align="center"><img src="https://leetcode-stats-six.vercel.app/api?username=jessmathews&theme=dark"></p>
+<p align="center"><img src="https://leetcard.jacoblin.cool/jessmathews?theme=dark&font=Poppins"></p>
 <br>
 <h2 align="center">🏆 Trophies:</h2>
 <br>
