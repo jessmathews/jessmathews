@@ -2,11 +2,9 @@
 
 
 <br>
-<h2 align="center">✨ Student </h2>
-<br>
 <br>
 
-
+<!--
 - 🔭 I’m currently trying to start with **open source contributions**
 
 - 🌱 I’m currently learning **Data Structures** and **Algorithms**
@@ -15,6 +13,7 @@
 
 - 🗨️ Ask me about **Fullstack Development**
 
+-->
 
 
 
