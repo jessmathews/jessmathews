@@ -48,7 +48,7 @@
 </td>
 <td><p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=jessmathews&theme=dark"></p>
 </td>
-<td><p align="center"><img src="https://streak-stats.demolab.com/?user=jessmathews&theme=github-dark"></p>
+<td><p align="center"><img src="https://github-readme-streak-stats-og35.vercel.app/?user=jessmathews&theme=github-dark"></p>
 </td>
 </tr>
 </table>
