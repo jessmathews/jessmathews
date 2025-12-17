@@ -31,7 +31,7 @@
 <br>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/jess-m-87110a1a5" target="_blank"><img align="center"
+  <a href="https://www.linkedin.com/in/jessmathews24" target="_blank"><img align="center"
   src="assets/linked-in-alt.svg"      alt="Jess" height="30" width="40" /></a>
 <a href="https://twitter.com/i_am_jezz" target="_blank"><img align="center"
       src="assets/twitter.svg"
