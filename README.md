@@ -22,7 +22,7 @@
 <h2 align="center">🛠️ Tools and Languages:</h2>
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,python,vim,bash,linux,vscode,html,github,java,rust,javascript,c,cpp,blender,css,django,golang,flask&perline=6" />
+    <img src="https://skillicons.dev/icons?i=git,python,vim,bash,linux,vscode,html,github,java,javascript,c,cpp,blender,css,golang,flask,ros,supabase,vite,raspberrypi,nextjs&perline=7" />
   </a>
 </p>
 <br>
